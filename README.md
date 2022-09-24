@@ -34,9 +34,12 @@ Here's a walkthrough of implemented user stories:
 
 Describe any challenges encountered while building the app.
 
+- Understanding all of the components making up the recycler view.
+
+
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2022] [Tanim Islam]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
